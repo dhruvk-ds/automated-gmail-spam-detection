@@ -1,0 +1,8 @@
+Security alert
+[GitHub] Sudo email verification code
+[GitHub] Sudo email verification code
+Your new privacy settings on Play
+FROM: Google <no-reply@accounts.google.com> | SUBJECT: Security alert
+FROM: GitHub <noreply@github.com> | SUBJECT: [GitHub] Sudo email verification code
+FROM: GitHub <noreply@github.com> | SUBJECT: [GitHub] Sudo email verification code
+FROM: Google Play <googleplay-noreply@google.com> | SUBJECT: Your new privacy settings on Play
