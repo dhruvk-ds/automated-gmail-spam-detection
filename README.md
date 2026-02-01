@@ -39,7 +39,7 @@ This project is designed as a **portfolio-ready project for beginners/freshers**
 ---
 
 ## 📁 Project Structure
-
+'''text
 automated-gmail-spam-detection/
 │
 ├── main.py # Main entry point
@@ -62,7 +62,7 @@ automated-gmail-spam-detection/
 │ └── .gitkeep
 │
 └── README.md
-
+'''
 
 ---
 
