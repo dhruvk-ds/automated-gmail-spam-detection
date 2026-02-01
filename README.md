@@ -41,29 +41,29 @@ This project is designed as a **portfolio-ready project for beginners/freshers**
 ## 📁 Project Structure
 
 '''text
-automated-gmail-spam-detection/
-│
-├── main.py # Main entry point
-├── spam_model.py # ML model training script
-├── requirements.txt # Project dependencies
-├── credentials.json # Google OAuth credentials (ignored by git)
-│
-├── data/
-│ └── spam.csv # Dataset
-│
-├── utils/
-│ └── gmail_utils.py # Gmail API helper functions
-│
-├── models/
-│ ├── spam_model.pkl # Trained ML model
-│ └── .gitkeep
-│
-├── logs/
-│ ├── spam_logs.txt # Logged spam emails
-│ └── .gitkeep
-│
-└── README.md
- '''
+  automated-gmail-spam-detection/
+  │
+  ├── main.py # Main entry point
+  ├── spam_model.py # ML model training script
+  ├── requirements.txt # Project dependencies
+  ├── credentials.json # Google OAuth credentials (ignored by git)
+  │
+  ├── data/
+  │ └── spam.csv # Dataset
+  │
+  ├── utils/
+  │ └── gmail_utils.py # Gmail API helper functions
+  │
+  ├── models/
+  │ ├── spam_model.pkl # Trained ML model
+  │ └── .gitkeep
+  │
+  ├── logs/
+  │ ├── spam_logs.txt # Logged spam emails
+  │ └── .gitkeep
+  │
+  └── README.md
+'''
 
 ---
 
