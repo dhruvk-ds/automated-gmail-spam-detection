@@ -40,30 +40,47 @@ This project is designed as a **portfolio-ready project for beginners/freshers**
 
 ## 📁 Project Structure
 
-'''text
-  automated-gmail-spam-detection/
-  │
-  ├── main.py # Main entry point
-  ├── spam_model.py # ML model training script
-  ├── requirements.txt # Project dependencies
-  ├── credentials.json # Google OAuth credentials (ignored by git)
-  │
-  ├── data/
-  │ └── spam.csv # Dataset
-  │
-  ├── utils/
-  │ └── gmail_utils.py # Gmail API helper functions
-  │
-  ├── models/
-  │ ├── spam_model.pkl # Trained ML model
-  │ └── .gitkeep
-  │
-  ├── logs/
-  │ ├── spam_logs.txt # Logged spam emails
-  │ └── .gitkeep
-  │
-  └── README.md
-'''
+# 📧 Automated Gmail Spam Detection
+
+An end-to-end machine learning project that detects spam emails from Gmail using the Gmail API and a trained ML model.
+
+---
+
+## 🚀 Features
+- Fetch emails directly from Gmail using Google API
+- Detect spam vs ham emails using ML
+- Log detected spam emails
+- Modular and scalable project structure
+- Easy to extend with new models or datasets
+
+---
+
+## 📂 Project Structure
+
+```bash
+automated-gmail-spam-detection/
+│
+├── main.py                 # Main entry point
+├── spam_model.py           # ML model training script
+├── requirements.txt        # Project dependencies
+├── credentials.json        # Google OAuth credentials (git-ignored)
+│
+├── data/
+│   └── spam.csv            # Dataset
+│
+├── utils/
+│   └── gmail_utils.py      # Gmail API helper functions
+│
+├── models/
+│   ├── spam_model.pkl      # Trained ML model
+│   └── .gitkeep
+│
+├── logs/
+│   ├── spam_logs.txt       # Logged spam emails
+│   └── .gitkeep
+│
+└── README.md
+
 
 ---
 
